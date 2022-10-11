@@ -1,1 +1,1 @@
-Check the website <a href="https://koutube.vercel.app/"> Here </a> Thank You!
+Check the website <a target="_blank" href="https://koutube.vercel.app/"> Here </a> Thank You!
